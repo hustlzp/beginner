@@ -6,6 +6,7 @@ Learning resources for beginners.
 ##Python
 
 * [A byte of Python](http://www.swaroopch.com/notes/python/)
+* [Python教程-廖雪峰](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
 ##HTML
 
@@ -40,6 +41,7 @@ Learning resources for beginners.
 # Git
 
 * 《[Pro Git](http://git-scm.com/book/en/v2)》
+* [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 # 设计
 
