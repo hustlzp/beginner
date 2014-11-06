@@ -9,20 +9,20 @@ Learning resources for beginners.
 
 ##HTML
 
-* [W3Scholl HTML教程](http://www.w3school.com.cn/html/index.asp)
+* [W3School HTML教程](http://www.w3school.com.cn/html/index.asp)
 
 ## CSS
 
-* [W3Scholl CSS教程](http://www.w3school.com.cn/css/index.asp)
+* [W3School CSS教程](http://www.w3school.com.cn/css/index.asp)
 
 ## JavaScript
 
-* [W3Scholl JavaScript教程](http://www.w3school.com.cn/js/index.asp)
+* [W3School JavaScript教程](http://www.w3school.com.cn/js/index.asp)
 * 《[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)》
 
 # jQuery
 
-* [W3Scholl jQuery教程](http://www.w3school.com.cn/jquery/index.asp)
+* [W3School jQuery教程](http://www.w3school.com.cn/jquery/index.asp)
 * 《[jQuery基础教程](http://book.douban.com/subject/25733582/)》
 
 # iOS & Objective-C
