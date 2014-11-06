@@ -33,6 +33,7 @@ Learning resources for beginners.
 # Java
 
 * 《[Java入门1•2•3](http://book.douban.com/subject/4732242/)》
+* 《[Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/dp/0321804333)》
 
 # Android
 
