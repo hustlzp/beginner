@@ -32,12 +32,12 @@ Learning resources for beginners.
 
 # Java
 
-* 《[Java入门1•2•3](http://book.douban.com/subject/4732242/)》
-* 《[Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/dp/0321804333)》
+* 《[Java入门1•2•3：一个老鸟的Java学习心得](http://book.douban.com/subject/4732242/)》
 
 # Android
 
 * 《[第一行代码：Android](http://book.douban.com/subject/25942191/)》
+* 《[Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/dp/0321804333)》
 
 # Git
 
